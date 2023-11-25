@@ -6,11 +6,9 @@ int main()
 {
     CommandHandlerer commandHandlerer;
 
-    commandHandlerer.executeCommands({
-        WIN_MONITOR_TIMEOUT_REMOVE,
-        WIN_STAND_BY_TIMEOUT_REMOVE,
-        WIN_ON_SCREEN_KEYBOARD
-    });
+    commandHandlerer.executeCommands(
+        COMMS
+    );
 
     return 0;
 }
