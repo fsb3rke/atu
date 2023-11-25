@@ -1,5 +1,5 @@
 # atu
-    A simple plug`&`play app for smard boards
+    A simple plug&play app for smard boards
 
 ## Fixes Smard Board Problems
     The app can opens the all require programs on the board.
