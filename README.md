@@ -9,4 +9,4 @@
 - Monitor Timeout (`0`)
 
 ## License
-This software is released under the [MIT]("") License.
+This software is released under the [MIT](https://github.com/fsb3rke/atu/blob/master/LICENSE) License.
