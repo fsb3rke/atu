@@ -1,7 +1,7 @@
 # atu
-    A simple plug&play app for smard boards
+    A simple plug&play app for smart boards
 
-## Fixes Smard Board Problems
+## Fixes Smart Board Problems
     The app can opens the all require programs on the board.
 
 - On Screen Keyboard (``osk``)
