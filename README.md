@@ -8,5 +8,10 @@
 - Standby Timeout (`0`)
 - Monitor Timeout (`0`)
 
+## Source Code Build
+```bash
+g++ -Wall -Werror -Wpedantic src/main.cpp src/handlerer.cpp src/colors.cpp src/shw.cpp -o atu.exe
+```
+
 ## License
 This software is released under the [MIT](https://github.com/fsb3rke/atu/blob/master/LICENSE) License.
